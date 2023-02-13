@@ -6,7 +6,7 @@ A simple application to run naiveproxy on android, using [shizuku](https://githu
 
 ## How it Work
 
-It using Shizuku to access ADB permissions, and run some simple commands, it copies naive client and `config.json` to `/data/local/tmp` directory to ensure it has sufficient permissions to execute it.
+It uses Shizuku to access ADB permissions, and run some simple commands, it copies naive client and `config.json` to `/data/local/tmp` directory to ensure it has sufficient permissions to execute it.
 
 
 
@@ -22,7 +22,7 @@ If Shizuku/Sui is not yet activated, please activate it according to the steps f
 4. Click the 'Shizuku' button to get the Shizuku permissions.
 5. Click the 'Start' button to start the naive client.
 
-Then, you will need another proxy software that supports SOCKS or HTTP proxy, such as Clash, v2rayNG, etc.
+Then, you will need another proxy application that supports SOCKS or HTTP proxy, such as Clash, v2rayNG, etc.
 
 
 
