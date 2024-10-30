@@ -19,7 +19,9 @@ If Shizuku/Sui is not yet activated, please activate it according to the steps f
 2. Unzip the naiveproxy.tar.xz to the Download/naiveproxy directory and make sure that the naiveproxy directory contains both the naive and config.json files.
 
 3. Modify the config.json to match your server information.
+
 4. Click the 'Shizuku' button to get the Shizuku permissions.
+
 5. Click the 'Start' button to start the naive client.
 
 Then, you will need another proxy application that supports SOCKS or HTTP proxy, such as Clash, v2rayNG, etc.
